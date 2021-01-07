@@ -1,5 +1,5 @@
 # Keeping Up With the Javascripts
-> Code snippets for the "Keeping Up With the Javascripts" course, available at Pirple.com
+Code snippets for the "Keeping Up With the Javascripts" course, available at Pirple.com
 
 
 ## Part 1 of this course (ES6), is now available
